@@ -31,5 +31,27 @@ Especificações(aviso de prazo)
 
 C4 Contexto:
 
-https://trello.com/c/Y92mxqIG/15-421-c4-contexto
+![image](https://user-images.githubusercontent.com/111448697/199356808-f2b551ba-b31a-4e4c-a678-7347d107401d.png)
+
+
+
+C4 Container (Cadastro):
+
+![image](https://user-images.githubusercontent.com/111448697/199356781-b803e897-ca3e-4042-bc0d-ce17253313dd.png)
+
+C4 Container (Controle Fiscal)
+![image](https://user-images.githubusercontent.com/111448697/199357044-a453b18d-7bed-490e-8b1b-c8a5e5eb58a7.png)
+
+
+
+Diagrama de componentes:
+
+![image](https://user-images.githubusercontent.com/111448697/199357187-d4455401-4a0f-4cf3-b733-0d21e63d50b1.png)
+![image](https://user-images.githubusercontent.com/111448697/199357202-c2987678-a125-4548-af79-29ccfce9f755.png)
+
+
+Diagrama de implantação:
+
+![image](https://user-images.githubusercontent.com/111448697/199357257-4a7511bf-ada4-45e0-b35a-293e61175f39.png)
+
 
