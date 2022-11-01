@@ -28,3 +28,8 @@ Especificações(aviso de prazo)
 ![image](https://user-images.githubusercontent.com/111448697/199284118-d82593b2-1b94-42c3-9f1f-6ede5985446a.png)
 
 
+
+C4 Contexto:
+
+https://trello.com/c/Y92mxqIG/15-421-c4-contexto
+
